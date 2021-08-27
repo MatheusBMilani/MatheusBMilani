@@ -1,6 +1,6 @@
 ## Que bom te ver aqui! 🌎
 
-Eu me chamo Matheus de Brito Milani, Mat, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
+Eu me chamo Matheus de Brito Milani, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
 Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), com o intuito de me tornar um desenvolvedor Java Full Stack!
 Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
 🔗
@@ -19,6 +19,9 @@ Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sob
 ## ⚙ Estatísticas
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>
 <!--
+![Snake animation](https://github.com/MatheusBMilani/MatheusBMilani/blob/output/github-contribution-grid-snake.svg)
+     
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
