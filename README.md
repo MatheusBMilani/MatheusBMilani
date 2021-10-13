@@ -44,5 +44,7 @@ public static void main(String args[]){
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+Agora a mais importante de todas!  <\ ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) />
+
 ## ⚙ Estatísticas
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>
