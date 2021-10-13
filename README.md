@@ -6,6 +6,29 @@ Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sob
 🔗
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusMilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/matheus-milani-287b781a4/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusdebritomilani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](matheusdebritomilani@gmail.com)
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+
+
+<img align="right" height="220" width="330" src="https://i.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.webp" />
+
+```java
+public static void main(String args[]){
+
+    Dev me = new Dev();
+
+    me.name = "Matheus Milani";
+    me.years = 19;
+    me.nicknames = Matmatbr";
+    me.applications = "Java, C, CSS, HTML, SQL,
+                    JavaScript, TypeScript";
+    me.tools = "Git, VSCode, Eclipse, MySQL, PostgreeSql,
+                    Apache Netbeans, Spring Boot, Code Blocks";
+    me.skills = "FullStack, SoftSkills";
+}
+```
+
 ## 💻 Areas de conhecimento
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -17,16 +40,3 @@ Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sob
 
 ## ⚙ Estatísticas
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>
-<!--
-![Snake animation](https://github.com/MatheusBMilani/MatheusBMilani/blob/output/github-contribution-grid-snake.svg)
-     
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
