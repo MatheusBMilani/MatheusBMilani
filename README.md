@@ -23,6 +23,7 @@ public static void main(String args[]){
     me.tools = "Git, VSCode, Eclipse, MySQL, PostgreeSql,
                     Apache Netbeans, Spring Boot, Code Blocks";
     me.skills = "FullStack, SoftSkills";
+    me.languages = "English, Spanish, Portuguese"
 }
 ```
 
