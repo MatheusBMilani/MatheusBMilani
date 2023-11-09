@@ -1,6 +1,5 @@
 ## Que bom te ver aqui! 🌎 [Português](https://github.com/MatheusBMilani/MatheusBMilani#readme) | [English](https://github.com/MatheusBMilani/MatheusBMilaniEng/blob/main/README.md) | [Español](https://github.com/MatheusBMilani/MatheusBMilaniSpa/blob/main/README.md)
 
-
 Meu nome é Matheus de Brito Milani, tenho 21 anos e sou um profissional dedicado e altamente analítico, com habilidades sólidas em análise de dados e uma paixão por liderança e ética nos negócios.
 
 Minha formação acadêmica é composta por um bacharelado em Ciências da Computação pela [Universidade Anhembi Morumbi](https://portal.anhembi.br), bem como a conclusão do bootcamp de desenvolvedor fullstack Java pela [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/). Atualmente, estou cursando a formação de dados na Escola DNC, onde aprimoro minhas habilidades em SQL, Python, R, Power BI e Excel. Além disso, mantenho um perfil ativo no GitHub, onde compartilho projetos relacionados a dados que demonstrem minhas capacidades práticas.
