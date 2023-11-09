@@ -1,7 +1,14 @@
 ## Que bom te ver aqui! 🌎 [Português](https://github.com/MatheusBMilani/MatheusBMilani#readme) | [English](https://github.com/MatheusBMilani/MatheusBMilaniEng/blob/main/README.md) | [Español](https://github.com/MatheusBMilani/MatheusBMilaniSpa/blob/main/README.md)
 
-Eu me chamo Matheus de Brito Milani, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
-Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), com o intuito de me tornar um desenvolvedor Java Full Stack!
+
+Meu nome é Matheus de Brito Milani, tenho 21 anos e sou um profissional dedicado e altamente analítico, com habilidades sólidas em análise de dados e uma paixão por liderança e ética nos negócios.
+
+Minha formação acadêmica é composta por um bacharelado em Ciências da Computação pela [Universidade Anhembi Morumbi](https://portal.anhembi.br), bem como a conclusão do bootcamp de desenvolvedor fullstack Java pela [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/). Atualmente, estou cursando a formação de dados na Escola DNC, onde aprimoro minhas habilidades em SQL, Python, R, Power BI e Excel. Além disso, mantenho um perfil ativo no GitHub, onde compartilho projetos relacionados a dados que demonstrem minhas capacidades práticas.
+
+Minha experiência profissional anterior me permitiu desenvolver habilidades valiosas em análise de dados e liderança. Por dois anos, atuei como Analista de Marketing Digital LATAM na Blue, onde tive a oportunidade de trabalhar com parceiros de renome, como Nike e Centauro. Minhas responsabilidades incluíam o uso de estratégias de retargeting para aumentar o faturamento de mais de 50 parceiros, resultando em resultados significativos para a empresa. Além disso, participei ativamente do projeto de treinamento de liderança da empresa, onde fui encarregado do treinamento em T.I de novos funcionários, liderando uma equipe de 3 pessoas de T.I. Essa experiência me proporcionou um entendimento profundo da importância da liderança e da formação de equipes eficazes.
+
+Além das habilidades técnicas, sou fluente em inglês e tenho um nível avançado em espanhol, com um ano de experiência profissional em reuniões de trabalho com parceiros. Acredito que essa proficiência linguística seja um ativo valioso.
+
 Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
 🔗
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusMilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/matheus-milani-287b781a4/)
