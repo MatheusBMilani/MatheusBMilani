@@ -1,6 +1,6 @@
 ## Que bom te ver aqui! 🌎 [Português](https://github.com/MatheusBMilani/MatheusBMilani#readme) | [English](https://github.com/MatheusBMilani/MatheusBMilaniEng/blob/main/README.md) | [Español](https://github.com/MatheusBMilani/MatheusBMilaniSpa/blob/main/README.md)
 
-Meu nome é Matheus de Brito Milani, tenho 21 anos e sou um profissional dedicado e altamente analítico, com habilidades sólidas em análise de dados e uma paixão por liderança e ética nos negócios.
+Meu nome é Matheus Milani, tenho 21 anos e sou um profissional dedicado e altamente analítico, com habilidades sólidas em análise de dados e uma paixão por liderança e ética nos negócios.
 
 Minha formação acadêmica é composta por um bacharelado em Ciências da Computação pela [Universidade Anhembi Morumbi](https://portal.anhembi.br), bem como a conclusão do bootcamp de desenvolvedor fullstack Java pela [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/). Atualmente, estou cursando a [Formação de Dados na Escola DNC](https://ed.escoladnc.com.br/formacao-dados-g/), e também o curso [Python Basics for Data Science da IBM](https://cognitiveclass.ai/courses/python-for-data-science) onde aprimoro minhas habilidades em SQL, Python, R, Power BI e Excel. Além disso, mantenho um perfil ativo no GitHub, onde compartilho projetos relacionados a dados que demonstrem minhas capacidades práticas.
 
@@ -11,7 +11,6 @@ Além das habilidades técnicas, sou fluente em inglês e tenho um nível avanç
 Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
 🔗
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusMilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/matheus-milani-287b781a4/)
-[![Gmail Badge](https://img.shields.io/badge/-matheusdebritomilani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](matheusdebritomilani@gmail.com)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 <img align="right" height="220" width="330" src="https://i.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.webp" />
